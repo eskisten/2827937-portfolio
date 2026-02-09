@@ -1,1 +1,1 @@
-
+I was able to practise the git things I learned. I learned the git things from the mini game that helps with learning how to use git and github. The order in which git 'requests' are sent are important as it can effect how things are saved and such. This will all be very helpful for when we start doing group projects.
